@@ -1,0 +1,5 @@
+streamlit
+opanai
+pyttsx3
+speech_recognition
+time
